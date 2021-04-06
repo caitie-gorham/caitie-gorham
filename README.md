@@ -5,7 +5,7 @@ I'm a developing full-stack developer currently in a six-month bootcamp.
 NOW
 
 * 🔭 I’m currently working on my full-stack development course!
-* 🌱 I’m currently learning node.js
+* 🌱 I’m currently learning mongoDB
 
 BIO
 
